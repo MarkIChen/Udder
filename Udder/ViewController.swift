@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         
     }
-
+    
+    
+    override func didChangeValue(forKey key: String) {
+        <#code#>
+    }
 }
 
